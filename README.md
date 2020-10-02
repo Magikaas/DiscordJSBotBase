@@ -112,14 +112,12 @@ Making a command adminOnly in a live version for example:
 ```json
 {
     "live": {
-      "prefix": "!prefix",
-      "activity": "Doing something",
-      "token": "live-bot-token-here",
-      "commands": [
-          "commands": {
-              "adminOnly": true
-          }
-      ]
+        "prefix": "!prefix",
+        "activity": "Doing something",
+        "token": "live-bot-token-here",
+        "commands": {
+            "adminOnly": true
+        }
     },
     "test": {
       "prefix": "!testprefix",
