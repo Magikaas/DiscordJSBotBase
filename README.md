@@ -136,7 +136,6 @@ Pull requests and stars are always welcome. For bugs and feature requests, [plea
 
 ## Author
 
-**Jon Schlinkert**
+**Magikaas**
 
 * [github/magikaas](https://github.com/magikaas)
-* [twitter/magikaas](http://twitter.com/magikaas)
