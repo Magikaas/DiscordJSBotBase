@@ -5,7 +5,7 @@ const client = new Discord.Client();
 const RoleManager = require('./class/RoleManager');
 const Command = require('./class/Command');
 
-const roleManager = new RoleManager.RoleManager();
+const roleManager = new RoleManager();
 
 // Import the config.
 let config = require('./config.json');
